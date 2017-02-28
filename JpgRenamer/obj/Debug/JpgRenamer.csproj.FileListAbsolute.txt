@@ -1,0 +1,74 @@
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.pdb
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csprojResolveAssemblyReference.cache
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.JpgRenamer.resources
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.Properties.Resources.resources
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.GenerateResource.Cache
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.exe
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.pdb
+c:\users\ashot\documents\visual studio 2015\Projects\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\PdfSharp.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\ashot\Documents\Visual Studio 2015\Projects\JpgRenamer\JpgRenamer\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.exe
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.pdb
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.pdb
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csprojResolveAssemblyReference.cache
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.JpgRenamer.resources
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.Properties.Resources.resources
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.GenerateResource.Cache
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.exe
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.pdb
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.pdb
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\bin\Debug\de\PdfSharp.resources.dll
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csprojResolveAssemblyReference.cache
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.JpgRenamer.resources
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.Properties.Resources.resources
+D:\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.GenerateResource.Cache
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.exe
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.pdb
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.pdb
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csprojResolveAssemblyReference.cache
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.JpgRenamer.resources
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.Properties.Resources.resources
+C:\Users\Armen\Desktop\WebAPI\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.GenerateResource.Cache
+C:\Users\Armen\Dropbox\Ash\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.About.resources
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\obj\Debug\JpgRenamer.exe
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\obj\Debug\JpgRenamer.pdb
+C:\Users\Armen\Desktop\New folder\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+C:\Users\Armen\Desktop\New folder\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+C:\Users\Armen\Desktop\New folder\JpgRenamer\obj\Debug\JpgRenamer.exe
+C:\Users\Armen\Desktop\New folder\JpgRenamer\obj\Debug\JpgRenamer.pdb
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\JpgRenamer\bin\Debug\JpgRenamer.exe.config
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.csproj.ResolveComReference.cache
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.exe
+C:\Users\Armen\Desktop\MyGitHub\JpgRenamer\JpgRenamer\obj\Debug\JpgRenamer.pdb
